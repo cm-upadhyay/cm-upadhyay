@@ -14,7 +14,6 @@ I specialize in architecting end-to-end, production-ready AI applications. I bui
 
 * **[Indian Stock Analyzer](https://indian-stock-analyzer-five.vercel.app/)** — Agentic AI platform for Indian stock research and investment analysis
   - *Stack:* *LangGraph, MCP, Mem0, LiteLLM, Multi-Agent Workflows, HITL, AWS*
-
 * **[Civic AI](https://github.com/cm-upadhyay/civic-ai)** — Production-grade bilingual RAG platform for government scheme discovery
   - *Stack:* *Hybrid Retrieval, Cross-Encoder Reranking, LoRA Fine-Tuning, RAGAS Evaluation, vLLM, EKS*
 
