@@ -1,21 +1,23 @@
-# Hi, I'm Chandra Mohan Upadhyay
+# Hi, I'm Chandra Mohan Upadhyay 👋
 
-## AI/ML Engineer | GenAI, Agentic AI & LLM Systems
----
-I am an AI/ML Engineer focused on building production AI systems using LLMs, Agentic AI, RAG, Fine-Tuning, and MLOps. My work centers on designing scalable AI applications, deploying reliable ML infrastructure, and transforming cutting-edge AI research into real-world products.
+### AI/ML Engineer | Data Scientist | GenAI, RAG & MLOps
 
-🔭 Current Focus: Agentic AI, Multi-Agent Systems, and Production RAG Architectures
-🌱 Exploring: AI Evaluation, Guardrails, Model Context Protocol (MCP), and LLM Infrastructure
-⚙️ Core Expertise: AI Engineering | Generative AI | LLM Fine-Tuning | RAG | MLOps
+----
 
-🚀 Featured Projects:
-- Indian Stock Analyzer – Agentic AI platform for Indian equities
-- Civic AI – Bilingual RAG assistant for government schemes
+I am an AI/ML Engineer and Data Scientist with 5+ years of industry experience and a Master's degree in AI & ML from IIT Madras (2026). I focus on turning cutting-edge GenAI capabilities into reliable, real-world products.
 
-📫 Contact: your_email@gmail.com
+I specialize in architecting end-to-end, production-ready AI applications. I build across the full ML lifecycle - from robust data pipelines and scalable infrastructure to Agentic Workflows, RAG, LLM Fine-Tuning, AI Evaluation, Guardrails, and LLMOps.
 
-## Tech Stack
+**🔭 Current Focus:** Agentic AI • RAG Systems • LLM Fine-Tuning • AI Evaluation • LLMOps
 
-Python • PyTorch • LangGraph • Hugging Face
-AWS • GCP • Kubernetes • Docker
-RAG • Fine-Tuning • Agentic AI
+### 🚀 Featured Projects
+
+* **[Indian Stock Analyzer](https://indian-stock-analyzer-five.vercel.app/)** — Agentic AI platform for Indian stock research and investment analysis
+  - *Stack:* *LangGraph, MCP, Mem0, LiteLLM, Multi-Agent Workflows, HITL, AWS*
+* **[Civic AI](https://github.com/cm-upadhyay/civic-ai)** — *Production-grade bilingual RAG platform for government scheme discovery*
+  - *Stack:* *Hybrid Retrieval, Cross-Encoder Reranking, LoRA Fine-Tuning, RAGAS Evaluation, vLLM, EKS*
+
+### 📫 Let's Connect
+
+* **Email:** [upadhyay.chandramohan@gmail.com](mailto:upadhyay.chandramohan@gmail.com)
+* **LinkedIn:** [linkedin.com/in/cmupadhyay](https://linkedin.com/in/cmupadhyay)
