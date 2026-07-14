@@ -22,6 +22,8 @@ I specialize in architecting end-to-end, production-ready AI applications. I bui
 * **Email:** [upadhyay.chandramohan@gmail.com](mailto:upadhyay.chandramohan@gmail.com)
 * **LinkedIn:** [linkedin.com/in/cmupadhyay](https://linkedin.com/in/cmupadhyay)
 
+----
+
 ### ⚙️ Core Technologies
 
 **AI & GenAI**  
