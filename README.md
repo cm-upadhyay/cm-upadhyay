@@ -28,6 +28,7 @@ I specialize in architecting end-to-end, production-ready AI applications. I bui
 
 **AI & GenAI**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F5C146?style=flat-square&logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
